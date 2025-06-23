@@ -1,7 +1,7 @@
 streamlit
-matplotlib
 pandas
 numpy
+matplotlib
 FinanceDataReader
 requests
 beautifulsoup4
