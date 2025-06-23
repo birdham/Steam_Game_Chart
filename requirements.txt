@@ -3,3 +3,6 @@ matplotlib
 pandas
 numpy
 FinanceDataReader
+requests
+beautifulsoup4
+lxml
